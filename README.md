@@ -21,3 +21,8 @@ docker-compose up --build
 
 **Delete Task**
 - DELETE: http://localhost:5000/[TASK_ID]
+
+### This Project Uses:
+- [Flask](http://flask.pocoo.org/docs/1.0/quickstart/)
+- [Flask-MySQLdb](https://flask-mysqldb.readthedocs.io/en/latest/)
+- [Docker](https://docs.docker.com/)
