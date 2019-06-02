@@ -1,12 +1,12 @@
 # flask-mysql-docker-api
 Python/Flask tasks API using a Docker container and remotely hosted MySQL database.
 
-###Project Setup
+### Project Setup
 ```
 docker-compose up --build
 ```
 
-###Methods
+### Methods
 **Get (all) Tasks**
 - GET: http://localhost:5000
 
