@@ -11,7 +11,6 @@ app.config['MYSQL_DB'] = mysqlDb
 
 mysql = MySQL(app)
 
-
 @app.route('/', methods=['POST', 'GET'])
 def index():
     # create task
